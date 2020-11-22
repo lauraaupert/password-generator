@@ -8,6 +8,11 @@ Then the choices are pushed to a new array which is then transformed into a stri
 Challenges: most of the arrays work, but for some reason the ones with 2 criteria seem to be capricious. I tried to fix them but I do not 
 know why they do not work. The letters are usually not added to the new array although my code is the same as for the others. 
 I also tried to add a conditional statement to cover the case of having the user choose none of the criteria. But it has not been successful -
-every time I write this code block, it messes up another part of my code for again an unknown reason. 
+every time I write this code block, it messes up another part of my code for again an unknown reason. I also had trouble commiting so I had 
+to create a new repo last minute unfortunately. It's a work in progress! 
+
+Here is the link: https://lauraaupert.github.io/password-generator/
+
+Thank you!
 
 
